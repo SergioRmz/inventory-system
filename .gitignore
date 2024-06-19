@@ -81,3 +81,5 @@ Dockerfile
 # Spring Boot DevTools
 .spring-boot-devtools.properties
 
+# Others
+HELP.md
