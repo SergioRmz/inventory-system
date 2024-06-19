@@ -28,4 +28,5 @@ public class SecurityConfig {
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder(); // Configuración del codificador de contraseñas BCrypt
     }
+    
 }

@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.util.Locale.Category;
 
+@Entity
 public class Product {
 
     @Id
