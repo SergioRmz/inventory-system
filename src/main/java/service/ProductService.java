@@ -36,4 +36,5 @@ public class ProductService {
         logger.debug("Deleting product with id: {}", id);
         productRepository.deleteById(id);
     }
+    
 }
